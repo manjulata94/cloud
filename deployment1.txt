@@ -2,3 +2,4 @@ All about deployment
 public
 private
 hybrid
+community
